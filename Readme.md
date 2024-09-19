@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Web+developer" /></a>
+</p>
 <h1 align="center">Hi there👋, I'm Shobhit Chauhan</h1>
 <h3 align="center">A budding engineer from India</h3>
 <h4 align="center">Pursuing B.Tech from G.L. Bajaj Institute of Technology and Management,Greater Noida,Uttar Pradesh</h4>
@@ -35,12 +36,12 @@
 <img src="https://skillicons.dev/icons?i=react,postman,mongodb" />
 </div>
 
-<br />
+### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shobhit0011&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit0011&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit0011&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shobhit0011&theme=dark&hide_border=true) &nbsp;&nbsp;
 
 ### ✍️ Random Dev Quote
