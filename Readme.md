@@ -25,15 +25,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,c,py,java" /> 
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,windows" />
   <br />
-</div>
-
-### Learning:
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,postman,mongodb" />
 </div>
 
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
